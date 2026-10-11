@@ -1,0 +1,77 @@
+[
+    {
+        "_id": "001",
+        "nombre": "Bulbasaur",
+        "tipo": "Planta/Veneno",
+        "habilidades": [
+            {"nombre_hab": "Espesura", "tipo_hab": "No"},
+            {"nombre_hab": "Clorofila", "tipo_hab": "Si"}
+        ],
+        "estadisticas": [
+            {"stat_name": "Vida", "valor": 45},
+            {"stat_name": "Ataque", "valor": 49},
+            {"stat_name": "Defensa", "valor": 49},
+            {"stat_name": "Velocidad", "valor": 45}
+        ]
+    },
+    {
+        "_id": "004",
+        "nombre": "Charmander",
+        "tipo": "Fuego",
+        "habilidades": [
+            {"nombre_hab": "Mar Llamas", "tipo_hab": "No"},
+            {"nombre_hab": "Poder Solar", "tipo_hab": "Si"}
+        ],
+        "estadisticas": [
+            {"stat_name": "Vida", "valor": 39},
+            {"stat_name": "Ataque", "valor": 52},
+            {"stat_name": "Defensa", "valor": 43},
+            {"stat_name": "Velocidad", "valor": 65}
+        ]
+    },
+    {
+        "_id": "007",
+        "nombre": "Squirtle",
+        "tipo": "Agua",
+        "habilidades": [
+            {"nombre_hab": "Torrente", "tipo_hab": "No"},
+            {"nombre_hab": "Cura Lluvia", "tipo_hab": "Si"}
+        ],
+        "estadisticas": [
+            {"stat_name": "Vida", "valor": 44},
+            {"stat_name": "Ataque", "valor": 48},
+            {"stat_name": "Defensa", "valor": 65},
+            {"stat_name": "Velocidad", "valor": 43}
+        ]
+    },
+    {
+        "_id": "025",
+        "nombre": "Pikachu",
+        "tipo": "Electrico",
+        "habilidades": [
+            {"nombre_hab": "Estatica", "tipo_hab": "No"},
+            {"nombre_hab": "Pararrayos", "tipo_hab": "Si"}
+        ],
+        "estadisticas": [
+            {"stat_name": "Vida", "valor": 35},
+            {"stat_name": "Ataque", "valor": 55},
+            {"stat_name": "Defensa", "valor": 40},
+            {"stat_name": "Velocidad", "valor": 90}
+        ]
+    },
+    {
+        "_id": "150",
+        "nombre": "Mewtwo",
+        "tipo": "Psiquico",
+        "habilidades": [
+            {"nombre_hab": "Presion", "tipo_hab": "No"},
+            {"nombre_hab": "Ausente", "tipo_hab": "Si"}
+        ],
+        "estadisticas": [
+            {"stat_name": "Vida", "valor": 106},
+            {"stat_name": "Ataque", "valor": 110},
+            {"stat_name": "Defensa", "valor": 90},
+            {"stat_name": "Velocidad", "valor": 130}
+        ]
+    }
+]
